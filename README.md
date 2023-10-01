@@ -1,8 +1,8 @@
 I'm a .net backend developer, I work with .net core 3.1+, aws, unit tests and e2e with xUnit, nUnit, selenium webdriver, appium and xCUiTest.
 
-🌱 I’m currently learning .Net Core, .Net 5+, Docker, xUnit, GraphQL, AWS<br/>
+🌱 I’m currently learning .Net Core, .Net 5+, Docker, xUnit, GraphQL, AWS, RabbitMQ and Apache Kafka<br/>
 💬 Ask me about Selenium Webdriver<br/>
-🤔 I’m looking for help with Microservice, Kafka, Parallel Programming.
+🤔 I’m looking for help with Microservice, Kafka, RabbitMQ, Event Drive, Design Patterns,Parallel Programming.
 <br/>
 <br/>
 <br/>
