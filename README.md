@@ -31,6 +31,4 @@ I'm a .net backend developer, I work with .net core 3.1+, aws, unit tests and e2
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-
-![Carlinhão github stats](https://github-readme-stats.vercel.app/api?username=Carlinhao&show_icons=true&theme=tokyonight)
 [![Carlinhão github stats](https://awesome-github-stats.azurewebsites.net/user-stats/Carlinhao?cardType=level&theme=dracula&fontFamily=JetBrains%20Mono&preferLogin=false)](https://git.io/awesome-stats-card)
